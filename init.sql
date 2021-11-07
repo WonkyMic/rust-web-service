@@ -1,0 +1,3 @@
+CREATE USER wonkymic WITH PASSWORD 'wonkymic';
+CREATE DATABASE wonkydb;
+GRANT ALL PRIVILEGES ON DATABASE wonkydb TO wonkymic;
