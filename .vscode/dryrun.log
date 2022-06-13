@@ -1,6 +1,0 @@
-make --dry-run --always-make --keep-going --print-directory
-make: Entering directory '/home/wonky/devnull/rust/rust-web-service'
-make: Leaving directory '/home/wonky/devnull/rust/rust-web-service'
- 
-make: *** No targets specified and no makefile found.  Stop.
-
